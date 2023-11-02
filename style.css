@@ -1,0 +1,54 @@
+/* Reset some default styles */
+body, h1, h2, p, ul, li {
+    margin: 3;
+    padding: 1.5;
+}
+img{
+border-radius:50px}
+body {
+    font-family: Arial, sans-serif;
+    background-color:#00f000;
+}
+
+header {
+    background-color: #333;
+    color: #fff000;
+    text-align: center;
+    padding: 3rem 0;
+}
+
+nav ul {
+text-position:50%;
+    list-style: none;
+    text-align: center;
+    text-color: ##00ff00;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 30px;
+    text-color: ##00ff00;
+	
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+section {
+    margin: 5rem;
+    padding: 3rem;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	border-radius:0px;
+}
+
+.project {
+    margin: 1rem 0;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+}
+
